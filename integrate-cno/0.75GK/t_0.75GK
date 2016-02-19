@@ -1,0 +1,18 @@
+ Integrating starting with:
+T =      7.50000000000000E+08
+Density =      1.40800000000000E+00
+ Desired integration time was reached!
+ NPROFILE:           11
+ size(net_history, 1):           11
+ size(net_history, 2):        10000
+Integrated to time:      9.99900000000000E+04
+Final enuc:      2.36495832525001E+18
+Final h1:      3.68787407263674E-01
+Final he4:      3.56819558396108E-01
+Final c12:      7.17510646328274E-10
+Final c13:      8.70693361894305E-16
+Final n13:      1.71209976839157E-09
+Final n14:      9.67130597252569E-09
+Final n15:      3.07081100704900E-13
+Final o14:      8.81688760427684E-05
+Final o15:      1.52360022732890E-04

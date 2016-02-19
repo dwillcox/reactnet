@@ -1,0 +1,3 @@
+cno_cycles.pdf : http://cococubed.asu.edu/images/net_cno/cno_cycles.pdf
+
+cno_cycles_rp.pdf : http://cococubed.asu.edu/images/net_hotcno/cno_cycles_rp.pdf
